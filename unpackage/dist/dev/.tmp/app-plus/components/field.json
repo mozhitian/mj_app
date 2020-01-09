@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "完善X信息",
+  "usingComponents": {
+    "demo": "/components/sen-pickerview/demo/demo",
+    "wpicker": "/components/w-picker-jcxm/index",
+    "pick": "/components/pick",
+    "alert-input": "/components/alertInput"
+  }
+}

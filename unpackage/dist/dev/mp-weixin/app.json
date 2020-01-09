@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/login/login/login",
+    "pages/setting/setting",
+    "pages/my_project/project_form/reportdata",
+    "pages/login/login/forget",
+    "pages/login/login/register",
+    "pages/home_page/home/home",
+    "pages/my_project/orders/orders",
+    "pages/my_project/project_process/test_process",
+    "pages/my_project/project/project",
+    "pages/my_project/project_process/project_query",
+    "components/pdf",
+    "pages/websocker/demo1",
+    "pages/my_project/project_form/received",
+    "pages/my_project/project_form/gcmsg",
+    "pages/my_project/project_form/settlement",
+    "pages/my_project/project_form/testdata",
+    "pages/my_project/project_form/pictrue",
+    "components/myProject",
+    "pages/my_project/project_process/delegate_process",
+    "components/sxqm/index",
+    "components/sxqm/cs",
+    "components/magnifying",
+    "components/field",
+    "pages/my_project/project_form/add_field",
+    "pages/messagepush/message_details",
+    "pages/my_project/project_process/settlement_process",
+    "pages/my_project/project_process/report_process",
+    "pages/my_project/project_process/received_process",
+    "pages/my_project/project_form/report",
+    "pages/my_project/project_form/test",
+    "pages/dataSelect/uni-calendar",
+    "pages/my_project/project_form/add_card",
+    "pages/my_project/department/department",
+    "pages/messagepush/messagepush",
+    "pages/my_project/late_record/late_record",
+    "pages/my_project/late_student/late_student"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "江门建联",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1"
+  }
+}

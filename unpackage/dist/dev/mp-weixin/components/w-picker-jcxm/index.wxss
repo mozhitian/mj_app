@@ -1,0 +1,29 @@
+
+.content.data-v-d3013c30 {
+	text-align: center;
+	height: 400rpx;
+}
+.tab.data-v-d3013c30 {
+	padding: 20rpx 0;
+	font-size: 32rpx;
+}
+.tab.active.data-v-d3013c30 {
+	color: #f00;
+}
+.result.data-v-d3013c30 {
+	margin-top: 200rpx;
+	font-size: 32rpx;
+}
+.input.data-v-d3013c30 {
+	width: 150%;
+	margin-left: 8%;
+	text-align: left;
+	font-size: 14px;
+}
+.date.data-v-d3013c30{
+	position: absolute;
+	top: 2%;
+	left: 30%;
+	width: 60%;
+}
+

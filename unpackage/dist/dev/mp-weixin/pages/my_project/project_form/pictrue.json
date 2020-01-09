@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "附件查看",
+  "usingComponents": {
+    "choose-image": "/components/chooseImage"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收样单详情",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "field": "/components/field",
+    "back-to-date": "/components/backToDate",
+    "mulcheck": "/components/mulcheck"
+  }
+}

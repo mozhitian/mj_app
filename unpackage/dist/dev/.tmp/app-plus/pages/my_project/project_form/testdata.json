@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "试验数据",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "uni-pagination": "/components/uni-pagination/uni-pagination",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "field": "/components/field",
+    "mulcheck": "/components/mulcheck",
+    "back-to-date": "/components/backToDate"
+  }
+}

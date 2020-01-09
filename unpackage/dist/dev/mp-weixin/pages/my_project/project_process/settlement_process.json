@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "项目结算",
+  "usingComponents": {
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup"
+  }
+}

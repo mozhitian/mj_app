@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "试验",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup",
+    "change-test-date": "/components/changeTestDate",
+    "mulcheck": "/components/mulcheck"
+  }
+}

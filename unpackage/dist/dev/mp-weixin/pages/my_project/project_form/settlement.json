@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "项目结算记录",
+  "usingComponents": {
+    "field": "/components/field"
+  }
+}

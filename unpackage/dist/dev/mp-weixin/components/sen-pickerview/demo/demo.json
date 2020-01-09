@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "sen-set-picker": "/components/sen-pickerview/picker-view-set"
+  },
+  "component": true
+}

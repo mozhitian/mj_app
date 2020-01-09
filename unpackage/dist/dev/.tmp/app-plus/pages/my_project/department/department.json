@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "XX项目",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1"
+  }
+}

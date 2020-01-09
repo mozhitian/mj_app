@@ -1,0 +1,21 @@
+
+.set.data-v-224d86c6 {
+	width: 100%;
+}
+.set button.data-v-224d86c6 {
+	width: 50%;
+	float: right;
+	line-height: 60rpx;
+}
+.zhi.data-v-224d86c6 {
+	width: 50%;
+	float: left;
+	line-height: 60rpx;
+}
+.input.data-v-224d86c6 {
+	margin-left: 20%;
+	text-align: left;
+	font-size: 14px;
+	width: 65%;
+}
+

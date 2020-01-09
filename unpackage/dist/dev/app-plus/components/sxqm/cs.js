@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"floating{ position: absolute; top: 0; left: 0; z-index: 1001; }\n.",[1],"confirm{ position: absolute; top: 0; right: 0; background-color: #FF8F58; width: 30vw; }\n.",[1],"confirm1{ position: absolute; top: 0; right: 30vw; background-color: #FF8F58; width: 30vw; }\n",],undefined,{path:"./components/sxqm/cs.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./components/sxqm/cs.wxml') } }));

@@ -1,0 +1,1 @@
+<view class="container"><view class="project_card"><view class="card_secound"><view class="img1"><image class="first_img1" src="../../../static/jg.png"></image></view><view>{{list.username}}</view><text>晚归记录</text><button data-event-opts="{{[['tap',[['options',['$event']]]]]}}" class="home_button" bindtap="__e">点击查看</button></view></view></view>

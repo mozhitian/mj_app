@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "收样",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup",
+    "mulcheck": "/components/mulcheck"
+  }
+}

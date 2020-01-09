@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "派工检测",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "sxqm": "/components/sxqm/begin"
+  },
+  "component": true
+}

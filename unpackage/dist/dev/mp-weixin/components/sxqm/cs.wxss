@@ -1,0 +1,22 @@
+
+.floating{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1001;
+}
+.confirm{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #FF8F58;
+	width: 30vw;
+}
+.confirm1{
+	position: absolute;
+	top: 0;
+	right: 30vw;
+	background-color: #FF8F58;
+	width: 30vw;
+}
+

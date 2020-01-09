@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "项目查询",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1"
+  }
+}

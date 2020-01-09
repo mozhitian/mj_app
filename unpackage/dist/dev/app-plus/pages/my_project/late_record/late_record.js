@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"select{ padding-top: 10px; }\n",],undefined,{path:"./pages/my_project/late_record/late_record.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/my_project/late_record/late_record.wxml') } }));

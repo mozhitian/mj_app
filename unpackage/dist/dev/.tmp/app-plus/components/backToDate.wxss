@@ -1,0 +1,14 @@
+
+.button.data-v-7b536652{
+	position: fixed;
+	top: 3%;
+	right: 5%;
+	width: 30px;
+	height: 30px;
+	border-radius: 30rpx;
+	background-color: blue;
+	color:white;
+	z-index: 10;
+	font-size: 14px;
+}
+

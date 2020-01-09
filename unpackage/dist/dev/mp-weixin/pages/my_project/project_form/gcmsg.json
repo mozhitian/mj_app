@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "工程信息",
+  "usingComponents": {
+    "field": "/components/field"
+  }
+}

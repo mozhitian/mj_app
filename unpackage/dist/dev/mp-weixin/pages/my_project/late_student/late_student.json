@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "晚归记录",
+  "usingComponents": {
+    "mylatestudent": "/components/mylate_student"
+  }
+}

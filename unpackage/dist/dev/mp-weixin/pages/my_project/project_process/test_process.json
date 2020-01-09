@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "试验",
+  "usingComponents": {
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup",
+    "change-test-date": "/components/changeTestDate",
+    "mulcheck": "/components/mulcheck"
+  }
+}

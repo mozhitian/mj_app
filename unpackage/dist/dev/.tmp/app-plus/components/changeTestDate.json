@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-pagination": "/components/uni-pagination/uni-pagination",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "field": "/components/field"
+  },
+  "component": true
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "设置",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1"
+  }
+}

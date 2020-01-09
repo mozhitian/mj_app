@@ -1,0 +1,84 @@
+
+.container {
+		height: 135px;
+		width: 100vw;
+}
+.project_card {
+		margin-top: 4%;
+		height: 110%;
+		width: 95%;
+		margin-left: 2%;
+		border: 1px solid #8F8F94;
+		border-radius: 4%;
+		overflow: hidden;
+}
+.card_first {
+		/* height: 72px; */
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		background-color: #007AFF;
+}
+.first_text {
+		width: 100%;
+		height: 100%;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		color: #FFFFFF;
+		margin-left: 10px;
+}
+.first_img {
+		width: 40%;
+		height: 55%;
+}
+.textword_3 {
+		font-size: 12px;
+		text-decoration: underline;
+}
+.card_secound {
+		height: 53px;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: row;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
+		/* align-items: center;
+		justify-content: center; */
+		border-top: 1px solid #8F8F94;
+}
+.textword_4 {
+		padding-top: 10px;
+		/* width: 54%; */
+		/* font-size: 14px; */
+		color: #000000;
+}
+.textword_1{
+		padding-top: 10px;
+		color: #EB5248;
+}
+.home_button {
+		width: 30%;
+		height: 60%;
+		background-color: orange;
+		color: #FFFFFF;
+		font-size: 14px;
+        /* margin: auto;	    */
+}
+

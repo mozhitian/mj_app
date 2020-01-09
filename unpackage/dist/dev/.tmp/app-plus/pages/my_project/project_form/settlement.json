@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "项目结算记录",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "field": "/components/field"
+  }
+}

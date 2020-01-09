@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "完善信息",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "field": "/components/field"
+  }
+}

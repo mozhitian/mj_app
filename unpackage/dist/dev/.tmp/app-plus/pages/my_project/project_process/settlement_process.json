@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "项目结算",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup"
+  }
+}

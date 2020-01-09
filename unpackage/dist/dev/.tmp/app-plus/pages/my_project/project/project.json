@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "晚归记录",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "my-project": "/components/myProject"
+  }
+}

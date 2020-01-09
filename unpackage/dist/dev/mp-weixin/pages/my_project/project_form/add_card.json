@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "新增委托单",
+  "usingComponents": {
+    "field": "/components/field"
+  }
+}

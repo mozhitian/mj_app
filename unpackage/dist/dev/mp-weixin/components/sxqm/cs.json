@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "完善X信息",
+  "usingComponents": {
+    "magnifying": "/components/magnifying"
+  }
+}

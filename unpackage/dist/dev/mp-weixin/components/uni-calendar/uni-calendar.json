@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-calendar-item": "/components/uni-calendar/uni-calendar-item",
+    "field": "/components/field",
+    "wpicker": "/components/w-picker-jcxm/index"
+  },
+  "component": true
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "送检委托",
+  "usingComponents": {
+    "myform-card": "/components/myformCard",
+    "popup": "/components/popup",
+    "mulcheck": "/components/mulcheck"
+  }
+}

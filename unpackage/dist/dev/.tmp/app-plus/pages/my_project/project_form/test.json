@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "试验单",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "field": "/components/field",
+    "back-to-date": "/components/backToDate",
+    "mulcheck": "/components/mulcheck"
+  }
+}

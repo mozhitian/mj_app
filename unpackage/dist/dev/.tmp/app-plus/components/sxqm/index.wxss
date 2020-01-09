@@ -1,0 +1,65 @@
+
+.ts {
+	color: #FF485D;
+	font-size: 30rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	padding-left: 20rpx;
+}
+canvas {
+	background-color: #DDDDDD;
+	width: 700rpx;
+	margin: 0 25rpx;
+	height: calc(100vh - 180rpx);
+	overflow: hidden;
+	margin-bottom: 40px;
+}
+.ccc {
+	width: 700rpx;
+	margin: 0 25rpx;
+	height: calc(100vh - 180rpx);
+}
+.aa {
+	/* background-color: #DDDDDD; */
+	display: none;
+	/* width: 700upx; */
+	/* height: calc(100vh - 140upx); */
+}
+.contents {
+	padding-top: 20rpx;
+	padding-bottom: 100rpx;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+#signatureImg {
+	background-color: #EEEEEE;
+}
+.caozuo {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 100rpx;
+	width: 750rpx;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+.caozuo view {
+	width: 375rpx;
+	text-align: center;
+	height: 100rpx;
+	line-height: 100rpx;
+	color: #FFFFFF;
+}
+.caozuo view:active {
+	background-color: #CCCCCC;
+	color: #333333;
+}
+.chongqian {
+	background-color: #FF8F58;
+}
+.over {
+	background-color: #0599D7;
+}
+

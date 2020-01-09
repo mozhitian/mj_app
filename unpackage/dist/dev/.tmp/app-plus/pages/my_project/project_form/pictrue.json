@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "附件查看",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "choose-image": "/components/chooseImage"
+  }
+}

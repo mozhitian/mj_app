@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "查看检测报告",
+  "usingComponents": {
+    "field": "/components/field"
+  }
+}

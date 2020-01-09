@@ -1,0 +1,1 @@
+<view><websocket vue-id="1" bind:__l="__l"></websocket><block wx:for="{{actlist}}" wx:for-item="item" wx:for-index="index" wx:key="index"><my-project vue-id="{{'2-'+index}}" list="{{item}}" bind:__l="__l"></my-project></block></view>

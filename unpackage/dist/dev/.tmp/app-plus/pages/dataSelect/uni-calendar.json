@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "日期",
+  "usingComponents": {
+    "websocket": "/pages/websocker/demo1",
+    "uni-calendar": "/components/uni-calendar/uni-calendar"
+  }
+}

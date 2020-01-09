@@ -1,0 +1,1 @@
+<view><block wx:if="{{judge}}"><magnifying vue-id="1" list="{{item}}" bind:__l="__l"></magnifying></block></view>
