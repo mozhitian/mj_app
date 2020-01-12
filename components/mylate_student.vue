@@ -129,6 +129,7 @@
 		background-color: orange;
 		color: #FFFFFF;
 		font-size: 14px;
-        /* margin: auto;	    */
+        margin: auto;
+        margin-right: 40px;
 	}
 </style>

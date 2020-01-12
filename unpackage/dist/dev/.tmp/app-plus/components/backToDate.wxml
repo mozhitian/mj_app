@@ -1,1 +1,1 @@
-<view style="width:100%;height:100%;" class="data-v-7b536652"><view data-event-opts="{{[['tap',[['backToDate',['$event']]]]]}}" class="button data-v-7b536652" bindtap="__e">返回</view></view>
+<view style="width:100%;height:100%;" class="data-v-c379d1de"><view data-event-opts="{{[['tap',[['backToDate',['$event']]]]]}}" class="button data-v-c379d1de" bindtap="__e">返回</view></view>

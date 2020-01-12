@@ -24,7 +24,7 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.zhezhao.data-v-44c0a390 {
+.zhezhao.data-v-29177ecf {
   position: fixed;
   width: 100%;
   height: 100%;
@@ -36,7 +36,7 @@
   background: rgba(0, 0, 0, 0.5);
   z-index: 10;
 }
-.xuanzeqi.data-v-44c0a390 {
+.xuanzeqi.data-v-29177ecf {
   width: 100%;
   background-color: #FFF;
   height: 500rpx;
@@ -46,7 +46,7 @@
   z-index: 20;
   display: block;
 }
-.quxiaoqueren.data-v-44c0a390 {
+.quxiaoqueren.data-v-29177ecf {
   height: 80rpx;
   width: 100%;
   display: block;
@@ -55,7 +55,7 @@
   top: 0rpx;
   left: 0rpx;
 }
-.quniu.data-v-44c0a390 {
+.quniu.data-v-29177ecf {
   width: 80rpx;
   border-radius: 6rpx;
   height: 50rpx;
@@ -68,7 +68,7 @@
   display: block;
   margin-top: 15rpx;
 }
-.queniu.data-v-44c0a390 {
+.queniu.data-v-29177ecf {
   width: 80rpx;
   border-radius: 6rpx;
   height: 50rpx;
@@ -82,14 +82,14 @@
   margin-right: 20rpx;
   margin-top: 15rpx;
 }
-.shigun.data-v-44c0a390 {
+.shigun.data-v-29177ecf {
   background-color: #FFF;
   width: 80%;
   display: block;
   height: 500rpx;
   margin: 0 auto;
 }
-.itemd.data-v-44c0a390 {
+.itemd.data-v-29177ecf {
   text-align: center;
   -webkit-box-pack: center;
   -webkit-justify-content: center;

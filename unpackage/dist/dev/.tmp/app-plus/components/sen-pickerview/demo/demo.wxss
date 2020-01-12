@@ -1,18 +1,18 @@
 
-.set.data-v-224d86c6 {
+.set.data-v-4a850576 {
 	width: 100%;
 }
-.set button.data-v-224d86c6 {
+.set button.data-v-4a850576 {
 	width: 50%;
 	float: right;
 	line-height: 60rpx;
 }
-.zhi.data-v-224d86c6 {
+.zhi.data-v-4a850576 {
 	width: 50%;
 	float: left;
 	line-height: 60rpx;
 }
-.input.data-v-224d86c6 {
+.input.data-v-4a850576 {
 	margin-left: 20%;
 	text-align: left;
 	font-size: 14px;

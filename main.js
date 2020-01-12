@@ -13,7 +13,7 @@ Vue.prototype.$store = store
 // Vue.prototype.apiServer='http://192.168.2.127:8081/my-projectphp/src'
 Vue.prototype.pdf='http://192.168.2.127:8081/pdf.js/web/viewer.html?'
 Vue.prototype.apiServer='http://192.168.2.106:8081/my-projectphp/src'
-Vue.prototype.api='http://192.168.0.106:8081/dormphp/src'
+Vue.prototype.api='http://192.168.2.105:8081/dormphp/src'
 App.mpType = 'app'
 
 const app = new Vue({
